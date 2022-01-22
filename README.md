@@ -6,6 +6,6 @@ The language of choice was Python.
 
 ### Files
 
-`notebook.ipynb` - jupyter notebook with the analysis and model
-`datasets/echonest-metrics.json` - tracks metrics
-`datasets/fma-rock-vs-hiphop.csv` - musical features of tracks
+- `notebook.ipynb` - jupyter notebook with the analysis and models.
+- `datasets/echonest-metrics.json` - tracks metrics.
+- `datasets/fma-rock-vs-hiphop.csv` - musical features of tracks.
