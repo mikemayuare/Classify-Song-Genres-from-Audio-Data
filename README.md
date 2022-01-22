@@ -1,6 +1,6 @@
 # Classify Song Genres from Audio Data
 
-A dataset with information about songs of two specific genres, Hip Hop and Rock was analyzed and two Classification models were applied, Decision Tree and Logistic Regressin
+A dataset with information on songs of two specific genres, Hip Hop and Rock, was analyzed, and two Classification models were applied, Decision Tree and Logistic Regression.
 
 The language of choice was Python.
 
